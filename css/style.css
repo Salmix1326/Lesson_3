@@ -1,0 +1,149 @@
+/* ========== Обнуление ========== */
+
+*,
+*::before,
+*::after {
+   margin: 0;
+   border: 0;
+}
+
+
+a,
+a:visited {
+   text-decoration: none;
+}
+
+a:hover {
+   text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-weight: inherit;
+   font-size: inherit;
+}
+
+img {
+   vertical-align: top;
+}
+
+/* ========== Header ========== */
+
+.header-title {
+   color: blue;
+   font-size: 20px;
+}
+.header-about {
+   color: blueviolet;
+}
+
+.n1 {
+   color: brown;
+}
+
+.n2 {
+   color: cornflowerblue;
+}
+
+.n3 {
+   color: crimson;
+}
+
+.n4 {
+   color: darkgreen;
+}
+
+.n5 {
+   color: darkslategray;
+}
+
+mark {
+   color: crimson;
+}
+/* ========== Continent ========== */
+
+.continent-title {
+   color: brown;
+}
+
+.continent-about-1 {
+   color: lightseagreen;
+}
+
+.continent-about-2 {
+   color: mediumpurple;
+}
+
+.continent-about-3 {
+   color: olivedrab;
+}
+
+/* ========== Characters ========== */
+
+.main-characters-title {
+   color: blue;
+}
+
+.character-title {
+   color: red;
+}
+
+.character-about {
+   color: sienna;
+}
+
+/* ========== Factions ========== */
+
+.faction-main-title {
+   color: darkmagenta;
+}
+
+.faction-title {
+   color: darkorchid;
+}
+
+.faction-about {
+   color: darkred;
+}
+   
+/* ========== World ========== */
+
+.main-title {
+   color: darkslategray;
+}
+
+.about {
+   color: deeppink;
+}
+
+.list-number {
+   color: dodgerblue;
+}
+
+/* ========== Movie ========== */
+
+.movie-title {
+   color: fuchsia;
+}
+
+.movie-about {
+   color: lightseagreen;
+}
+
+/* ========== Footer ========== */
+
+.footer-title {
+   color: red;
+}
+
+.postscriptum {
+   font-size: 20px;
+}
+
+.upbutton {
+   color: red;
+}
